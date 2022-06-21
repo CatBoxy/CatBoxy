@@ -3,7 +3,7 @@
 ### :rocket: About Me
 
 I'm Juan Cruz Lambrechts, a Full Stack developer based in San Juan, Argentina with a passion for building digital services and solutions. I have a Materials Engineering background and I love to have a deep understanding of each project I focus on.
-Feel free to browse through my projects in my personal website: https://personal-portfolio-catboxy.vercel.app/
+Feel free to browse through my projects in my personal website: https://www.juancruzlambrechts.com/
 
 ## 🛠️ Skills
 
