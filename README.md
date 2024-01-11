@@ -11,6 +11,7 @@ Feel free to browse through my projects in my personal website: https://www.juan
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scala](https://img.shields.io/badge/Scala-323330?style=for-the-badge&logo=scala&logoColor=#DC322F)
 
 ### Front End Development
 
