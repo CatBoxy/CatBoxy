@@ -20,6 +20,8 @@ Feel free to browse through my projects in my personal website: https://www.juan
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
