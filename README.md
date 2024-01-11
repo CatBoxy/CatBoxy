@@ -45,6 +45,7 @@ Feel free to browse through my projects in my personal website: https://www.juan
 ### Tools
 
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### ORM
 
@@ -63,11 +64,12 @@ Feel free to browse through my projects in my personal website: https://www.juan
 ### Testing
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=jest&logoColor=white)
 
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jclambrechts/)
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://personal-portfolio-catboxy.vercel.app/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.juancruzlambrechts.com/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VcM2TSIvlXd9L7RY6R7XK6ln8uzzd2Vn/view?usp=sharing)
 <!--
 **CatBoxy/CatBoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
