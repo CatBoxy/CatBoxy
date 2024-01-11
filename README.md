@@ -20,7 +20,7 @@ Feel free to browse through my projects in my personal website: https://www.juan
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
@@ -38,6 +38,10 @@ Feel free to browse through my projects in my personal website: https://www.juan
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ORM
 
@@ -61,7 +65,7 @@ Feel free to browse through my projects in my personal website: https://www.juan
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jclambrechts/)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://personal-portfolio-catboxy.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1nc_qBTXaZA9PXZfmo12uXn90n1g2qP3M/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VcM2TSIvlXd9L7RY6R7XK6ln8uzzd2Vn/view?usp=sharing)
 <!--
 **CatBoxy/CatBoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
